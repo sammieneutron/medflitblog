@@ -1,0 +1,166 @@
+
+@media(min-width: 768px) {
+	.subscribe {
+		right: 150px;
+	}
+}
+
+.read-more-btn {
+	display: none;
+}
+
+@media(max-width: 767px) {
+	.read-more-btn {
+		display: inline;
+	}
+}
+
+@media(max-width: 767px) {
+	.hidden-xs {
+		display: none;
+	}
+}
+
+.health-topic {
+
+}
+
+.health-topic h6 {
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #01adb9;
+	-webkit-letter-spacing: 0.5px;
+	-moz-letter-spacing: 0.5px;
+	letter-spacing: 0.5px;
+	margin-bottom: 10px;
+}
+
+.health-topic h3 a {
+	font-size: 35px;
+	line-height: 44px;
+	color: black;
+}
+
+.health-topic h3 a:hover {
+	color: #01adb9;
+	text-decoration: none;
+}
+
+.health-topic p a {
+	font-size: 18px;
+	color: black;
+	text-decoration: none;
+}
+
+.health-topic-2 {
+
+}
+
+.health-topic-2 h6 {
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #01adb9;
+	-webkit-letter-spacing: 0.5px;
+	-moz-letter-spacing: 0.5px;
+	letter-spacing: 0.5px;
+	margin-bottom: 10px;
+}
+
+.health-topic-2 h3 a {
+	font-size: 24px;
+	line-height: 30px;
+	color: black;
+}
+
+.health-topic-2 h3 a:hover {
+	color: #01adb9;
+	text-decoration: none;
+}
+
+.health-topic-2 p a {
+	font-size: 14px;
+	color: black;
+	text-decoration: none;
+}
+
+.health-topic-3 {
+
+}
+
+.health-topic-3 h6 {
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #01adb9;
+	-webkit-letter-spacing: 0.5px;
+	-moz-letter-spacing: 0.5px;
+	letter-spacing: 0.5px;
+	margin-bottom: 10px;
+}
+
+.health-topic-3 h3 a {
+	font-size: 20px;
+	line-height: 26px;
+	color: black;
+}
+
+.health-topic-3 h3 a:hover {
+	color: #01adb9;
+	text-decoration: none;
+}
+
+.health-topic-3 p a {
+	font-size: 14px;
+	color: black;
+	text-decoration: none;
+}
+
+@media(max-width: 767px) {
+	.health-topic-3 h3 a {
+		font-size: 16px;
+		line-height: 20px !important;
+		color: black;
+	}
+	.health-topic-3 p a {
+		display: none;
+	}
+}
+
+.wellness {
+
+}
+
+.wellness h1 {
+	color: #01adb9;
+}
+
+.wellness h6 a {
+	text-transform: uppercase;
+	color: black;
+}
+
+.wellness h6 a:hover {
+	color: #01adb9;
+	text-decoration: none;
+}
+
+.symptoms {
+
+}
+
+.symptoms h6{
+	font-size: 20px;
+	text-transform: uppercase;;
+}
+
+.symptoms p{
+	font-size: 18px;
+}
