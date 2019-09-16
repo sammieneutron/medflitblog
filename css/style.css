@@ -164,3 +164,22 @@
 .symptoms p{
 	font-size: 18px;
 }
+
+/*Full Navigation Bar*/
+
+.all {
+	color: white;
+}
+
+.all a {
+	text-decoration: none;
+	color: white;
+}
+
+.all p{
+	line-height: 35px;
+}
+
+.navbar-fixed-top {
+	/*position: fixed;*/
+}
